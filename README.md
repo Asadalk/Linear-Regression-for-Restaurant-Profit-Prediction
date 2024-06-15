@@ -1,7 +1,3 @@
-Based on the content you've shared, it looks like you're working on a project that involves implementing linear regression to predict restaurant profits based on city population. Here’s how you could structure a README file for your project:
-
----
-
 # Linear Regression for Restaurant Profit Prediction
 
 ## Overview
